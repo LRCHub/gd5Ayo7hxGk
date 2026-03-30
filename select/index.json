@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "空",
+  "base_artist": "音無小鳥(CV:滝田樹里)",
+  "createdAt": "2026-03-30T07:51:03.451114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "音無小鳥(CV:滝田樹里)",
+      "has_synced": true,
+      "path": "select/01_空_音無小鳥(CV_滝田樹里).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "音無小鳥 (CV:滝田樹里)",
+      "has_synced": true,
+      "path": "select/02_空_音無小鳥_(CV_滝田樹里).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "No Party for Cao Dong",
+      "has_synced": true,
+      "path": "select/03_空_No_Party_for_Cao_Dong.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "Nicholas Tse",
+      "has_synced": false,
+      "path": "select/04_空_Nicholas_Tse.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空 ～生きていれば～",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/05_空_~生きていれば~_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "空 ～生きていれば～",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/06_空_~生きていれば~_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "草東沒有派對",
+      "has_synced": false,
+      "path": "select/07_空_草東沒有派對.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "Tracy Wang",
+      "has_synced": true,
+      "path": "select/08_空_Tracy_Wang.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "空×少年",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/09_空×少年_キマグレン.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "空 / SORA",
+      "artist": "長渕剛",
+      "has_synced": false,
+      "path": "select/10_空___SORA_長渕剛.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "GENERATIONS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/11_空_GENERATIONS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "空 - SORA",
+      "artist": "GENERATIONS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/12_空_-_SORA_GENERATIONS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "汪小敏",
+      "has_synced": false,
+      "path": "select/13_空_汪小敏.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "空、星、海の夜",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/14_空、星、海の夜_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "空 [ORT]",
+      "artist": "音無小鳥(CV:滝田樹里)",
+      "has_synced": true,
+      "path": "select/15_空_[ORT]_音無小鳥(CV_滝田樹里).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "12 空／Sora",
+      "artist": "長渕剛",
+      "has_synced": false,
+      "path": "select/16_12_空_Sora_長渕剛.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "音無小鳥 (CV: 滝田樹里)",
+      "has_synced": true,
+      "path": "select/17_空_音無小鳥_(CV__滝田樹里).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "空",
+      "artist": "五輪 真弓",
+      "has_synced": false,
+      "path": "select/18_空_五輪_真弓.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空",
+      "artist": "音無小鳥(CV:滝田樹里)",
+      "has_synced": false,
+      "path": "select/pl_01_空_音無小鳥(CV_滝田樹里).txt"
+    }
+  ]
+}
